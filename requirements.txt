@@ -1,0 +1,7 @@
+torch>=2.1
+torchvision>=0.16
+numpy
+pandas
+scikit-learn
+matplotlib
+aeon          # only used to download ECG5000 (or place the UCR txt files manually, see README)

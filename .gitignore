@@ -1,0 +1,15 @@
+venv/
+.venv/
+__pycache__/
+*.pyc
+*.zip
+*.tar.gz
+*.pt
+*.pth
+data/
+cifar-10-batches-py/
+.ipynb_checkpoints/
+.idea/
+.vscode/
+code_bundle.txt
+results_summary.csv
